@@ -1,14 +1,13 @@
-# Netflix-EDA
+# Netflix-Exploratory Data Analysis
+## By Inari Coleman
 
-Netflix Pitch
-Inari Coleman
 Project Overview
 
-Background
+## Background
 
-With the major success of indie film Everything Everywhere All at Once, independent production company Astoria Films sees the opportunity to break into the larger market. Astoria Films is looking to partner with Netflix to produce multiple films and limited series for the company. 
+With the major success of indie film Everything Everywhere All at Once, independent production company Astoria Films sees the opportunity to break into the larger market.Astoria Films is looking to partner with Netflix to produce multiple films and limited series for the company. 
 
-Goal
+## Goal
 
 The goal is to help Astoria Films production company create a successful pitch to Netflix that will result in a partnership between the two companies using Netflix historical data to identify what type of content Netflix typically produces, and what factors determine the financial success of the content.
 Tasks
