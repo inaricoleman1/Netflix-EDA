@@ -11,7 +11,7 @@ With the major success of indie film Everything Everywhere All at Once, independ
 
 The goal is to help Astoria Films production company create a successful pitch to Netflix that will result in a partnership between the two companies using Netflix historical data to identify what type of content Netflix typically produces, and what factors determine the financial success of the content.
 
-##Tasks
+## Tasks
 
 First I looked at the data collected from Kaggle. The data was collected by web scraping the Netflix catalog. I used this data because I needed to analyze what type of content Netflix already has in its library. Then breakdown what content Netflix puts on its platform the most, the data could be used to create a successful pitch. First thing I checked for was missing values and incorrect data. I found out I had three columns in rating with the wrong information, so I had to search the Netflix website to find the correct information and correct the mistake. 
 
