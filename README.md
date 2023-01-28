@@ -10,7 +10,9 @@ With the major success of indie film Everything Everywhere All at Once, independ
 ## Goal
 
 The goal is to help Astoria Films production company create a successful pitch to Netflix that will result in a partnership between the two companies using Netflix historical data to identify what type of content Netflix typically produces, and what factors determine the financial success of the content.
-Tasks
+
+##Tasks
+
 First I looked at the data collected from Kaggle. The data was collected by web scraping the Netflix catalog. I used this data because I needed to analyze what type of content Netflix already has in its library. Then breakdown what content Netflix puts on its platform the most, the data could be used to create a successful pitch. First thing I checked for was missing values and incorrect data. I found out I had three columns in rating with the wrong information, so I had to search the Netflix website to find the correct information and correct the mistake. 
 
 I only focused on certain columns:
@@ -25,7 +27,7 @@ What is Netflix's core audience? What age groups are they mainly developing cont
 
 The purpose of these questions is to find out what type of content Netflix produces the most, to increase the chances of creating a successful pitch. 
 
-Results 
+##Results 
 
 The figure below  shows that Netflix currently has more Movies in its library than TV shows, meaning that Netflix has primarily focused on Movies. The results suggest that historically, Netflix focus has been more on Movies than Tv shows. Currently Netflix has 6,131 movies in its library, compared to 2,676 Tv shows. In 2018 Netflix had 767 movies added to its library. 
 
