@@ -26,7 +26,7 @@ What is Netflix's core audience? What age groups are they mainly developing cont
 
 The purpose of these questions is to find out what type of content Netflix produces the most, to increase the chances of creating a successful pitch. 
 
-##Results 
+## Results 
 
 The figure below  shows that Netflix currently has more Movies in its library than TV shows, meaning that Netflix has primarily focused on Movies. The results suggest that historically, Netflix focus has been more on Movies than Tv shows. Currently Netflix has 6,131 movies in its library, compared to 2,676 Tv shows. In 2018 Netflix had 767 movies added to its library. 
 
@@ -62,6 +62,6 @@ In the image below, the bar chart shows that most programs in the Netflix librar
 In the images below, I split the genre column into two based on program type. In these two charts we can see that Tv shows & Movies that are International based are a high interest for netflix. Second we see Dramas being the second highest genre on Netflix currently. In conclusion, I find that to have a successful pitch to Netflix be should use these findings to create a Tv or show. My first suggestion would be to pitch a Movie drama based in a foreign country such as London or Japan. 
 
 
-Conclusion
+## Conclusion
  
 In conclusion, with this data we can conclude that the factors that could help our pitch would be to create a Movie based on international Crime Drama. Based on the research Netflix main focus is movie content and International dramas. This pitch will help create a lasting partnership between Netflix and Indie Producer Astoria Films.  
